@@ -35,3 +35,59 @@
     height:auto;
     margin:auto;
 }
+
+.box-one{
+
+    width: 690px;
+    height: 123px;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin: 10px 10px 10px 10px;
+    float: left;
+    margin-top: 20px;
+}
+
+.box-two{
+    width: 345px;
+    height: 150px;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin: 8px 0px 0px 0px;
+    float: left;
+    margin-left: 0px;
+}
+.box-three{
+    width: 340px;
+    height: 318px;
+    border: 1px solid;
+    box-sizing: border-box;
+
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.box-four{
+    width: 340px;
+    height: 319px;
+    border: 1px solid;
+    box-sizing: borddisplay: block;
+    float: left;
+}
+.box-five{
+    width: 345px;
+    height: 150px;
+    border: 1px solid;
+    box-sizing: border-box;
+
+    margin-top: 170px;
+    margin-left: 710px;
+}
+.box-six{
+    width: 345px;
+    height: 150px;
+    border: 1px solid;
+    box-sizing: border-box;
+
+    margin-top: 10px;
+    margin-left: 710px;
+}
